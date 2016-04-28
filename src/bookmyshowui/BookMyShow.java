@@ -2,8 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-// New BookMyShow Clone project
-    
+/*checking repository submission - DP */
 package bookmyshowui;
 
 import java.sql.*;
